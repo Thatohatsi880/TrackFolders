@@ -7,7 +7,7 @@ public class myfirstclass {
 	{
 	
 		
-	System.out.println("Hello,World");
+	System.out.println("Git is Awesome");
 	}
 
 }
