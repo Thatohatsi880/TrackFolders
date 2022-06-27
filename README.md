@@ -1,2 +1,1 @@
-# TrackFolders
-This is for tracking my folder and a file in that folder
+Learning Java basics ("Hello world")
